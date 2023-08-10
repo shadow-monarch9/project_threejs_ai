@@ -1,5 +1,9 @@
 {
   "dependencies": {
     "@react-three/drei": "^9.78.2"
+  },
+
+  "engines": {
+    "node": ">=14.20.1"
   }
 }
